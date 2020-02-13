@@ -1,9 +1,8 @@
-import { AppBar, Button, Toolbar } from '@material-ui/core';
-import ClearIcon from '@material-ui/icons/Clear';
+import { AppBar, Toolbar } from '@material-ui/core';
 import MenuIcon from '@material-ui/icons/Menu';
 import React, { PureComponent } from 'react';
 
-import { StyledTitle, StyledIconButton } from './styles';
+import { StyledIconButton, StyledTitle } from './styles';
 
 
 export default class BarraSuperior extends PureComponent {
