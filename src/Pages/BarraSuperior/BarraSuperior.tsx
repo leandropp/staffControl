@@ -20,12 +20,9 @@ export default class BarraSuperior extends PureComponent {
                     >
                         <MenuIcon />
                     </StyledIconButton>
-
                     <StyledTitle variant="h6" >
-                        Cadastro Nacional de Pessoas Especiais da Familia Paixão
+                        Controle de Funcionários - Ponto Eletrônico
                     </StyledTitle>
-
-                    <Button color="inherit"><ClearIcon /> </Button>
                 </Toolbar>
             </AppBar>
         );

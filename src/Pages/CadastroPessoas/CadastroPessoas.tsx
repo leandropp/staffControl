@@ -12,7 +12,6 @@ class CadastroPessoas extends PureComponent <ICadastroPessoasProps, ICadastroPes
 render () {
     return (
         <>
-            <Typography>Teste de Cadastro de Funcionários </Typography>
         </>
     );
 }
